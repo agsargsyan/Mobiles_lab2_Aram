@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab2_Aram</string>
+    <string name="text_from_fragment2">Вывод списка</string>
+    <string name="todo">TODO</string>
+    <string name="fragment_2">My arraylist</string>
+    <string name="fragment_1">Current Time</string>
+    <string name="text_from_main_activity">Добро пожаловать</string>
+</resources>
